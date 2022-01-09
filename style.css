@@ -1,0 +1,64 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+  font-family: 'Gwendolyn', cursive;
+  font-size: 45px;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.button1
+{
+  width: 20%;
+  height: 45px;
+  margin-top: 60px;
+  border-radius: 30px;
+  background-image: url("button bedroom.jpg");
+  
+}
+
+.button2
+{
+  width: 20%;
+  height: 45px;
+  margin-top: 60px;
+  border-radius: 30px;
+  background-image: url("button bedroom.jpg");
+  
+}
+
+.button3
+{
+  width: 20%;
+  height: 45px;
+  margin-top: 60px;
+  border-radius: 30px;
+  background-image: url("button bedroom.jpg");
+  
+}
+
+.button4
+{
+  width: 20%;
+  height: 45px;
+  margin-top: 60px;
+  border-radius: 30px;
+  background-image: url("button bedroom.jpg");
+  
+}
+
+.button5
+{
+  width: 20%;
+  height: 45px;
+  margin-top: 60px;
+  border-radius: 30px;
+  background-image: url("button bedroom.jpg");
+  
+}
